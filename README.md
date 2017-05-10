@@ -4,6 +4,7 @@ Test Assignment
 Part 1: Explore the Product
 
 ●Please explore our website http://attendify.com/, sign up for a free account, and trybuilding an app: https://hub.attendify.com/account/signup/.
+
 ●Download and play around with a couple of our clients' apps at App Store or GooglePlay. We recommend to look at Glass Blown Open, StepUp Summit YYC, #BankSocialConference 2016.
 
 Part 2: Technical TasksPlease, find a full description of 2 tasks here:https://gist.github.com/kachayev/f0b110340fb18ccef469 In short words:
